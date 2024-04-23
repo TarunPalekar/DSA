@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "autoSave": "onFocusChange",
+        "iostream": "cpp"
+    }
+}
